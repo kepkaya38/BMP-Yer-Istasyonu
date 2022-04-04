@@ -1,0 +1,10 @@
+C:\Users\burak\source\repos\bmp_istasyon deneme 2\bin\Debug\bmp_istasyon deneme 2.exe.config
+C:\Users\burak\source\repos\bmp_istasyon deneme 2\bin\Debug\bmp_istasyon deneme 2.exe
+C:\Users\burak\source\repos\bmp_istasyon deneme 2\bin\Debug\bmp_istasyon deneme 2.pdb
+C:\Users\burak\source\repos\bmp_istasyon deneme 2\obj\Debug\bmp_istasyon deneme 2.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\bmp_istasyon deneme 2\obj\Debug\bmp_istasyon_deneme_2.Form1.resources
+C:\Users\burak\source\repos\bmp_istasyon deneme 2\obj\Debug\bmp_istasyon_deneme_2.Properties.Resources.resources
+C:\Users\burak\source\repos\bmp_istasyon deneme 2\obj\Debug\bmp_istasyon deneme 2.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\bmp_istasyon deneme 2\obj\Debug\bmp_istasyon deneme 2.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\bmp_istasyon deneme 2\obj\Debug\bmp_istasyon deneme 2.exe
+C:\Users\burak\source\repos\bmp_istasyon deneme 2\obj\Debug\bmp_istasyon deneme 2.pdb
